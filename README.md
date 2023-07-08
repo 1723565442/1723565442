@@ -20,7 +20,7 @@ I am Znnnn and I am 20 years old. I come from Yingkou, Liaoning.
 - 🎓 I'm studying Software Engineering in Nanjing University.
 - 🌱 I’m currently learning Backend.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TF-Liu)
+
 
 
 <div align="center">
