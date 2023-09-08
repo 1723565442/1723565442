@@ -27,9 +27,7 @@ I am Znnnn and I am 20 years old. I come from Yingkou, Liaoning.
     <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);std::cout%20<<%20%22Hello%2C%20World!%22;print(%22Hello%2C%20World!%22);document.write('Hello%2C%20World');&center=true">
 </div>
 
-  
-### 🚀 Action
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/TF-Liu/TF-Liu/assets/github-contribution-grid-snake.svg" /></div>
+
 
 
 
