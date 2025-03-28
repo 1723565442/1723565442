@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Znnnn and I am 20 years old. I come from Yingkou, Liaoning.
+I am Znnnn and I am 22 years old. I come from Yingkou, Liaoning.
 
 - 🎓 I'm studying Software Engineering in Nanjing University.
 - 🌱 I’m currently learning Backend.
